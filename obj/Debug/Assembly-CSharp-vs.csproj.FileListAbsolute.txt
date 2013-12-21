@@ -1,0 +1,33 @@
+C:\LD28\LD28Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\LD28\LD28Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\LD28\LD28Project\Temp\bin\Debug\UnityEditor.dll
+C:\LD28\LD28Project\Temp\bin\Debug\UnityEngine.dll
+C:\LD28\LD28Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\LD28\LD28Project\Temp\bin\Debug\nunit.framework.dll
+C:\LD28\LD28Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\LD28\LD28Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\LD28\LD28Project\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\LD28\LD28Project\obj\Debug\Assembly-CSharp.dll
+C:\LD28\LD28Project\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Lacerda\Desktop\LD28Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,57 @@
+C:\LD28\LD28Project\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\LD28\LD28Project\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\LD28\LD28Project\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\LD28\LD28Project\Temp\bin\Debug\UnityEditor.BB10.Extensions.dll
+C:\LD28\LD28Project\Temp\bin\Debug\UnityEditor.dll
+C:\LD28\LD28Project\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\LD28\LD28Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\LD28\LD28Project\Temp\bin\Debug\UnityEditor.Metro.Extensions.dll
+C:\LD28\LD28Project\Temp\bin\Debug\UnityEditor.WP8.Extensions.dll
+C:\LD28\LD28Project\Temp\bin\Debug\UnityEngine.dll
+C:\LD28\LD28Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\LD28\LD28Project\Temp\bin\Debug\nunit.framework.dll
+C:\LD28\LD28Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\LD28\LD28Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\LD28\LD28Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\LD28\LD28Project\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache
+C:\LD28\LD28Project\obj\Debug\Assembly-CSharp-Editor.dll
+C:\LD28\LD28Project\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\LD28\LD28Project\Temp\bin\Debug\Assembly-UnityScript.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\Assembly-UnityScript.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\UnityEditor.BB10.Extensions.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\UnityEditor.Metro.Extensions.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\UnityEditor.WP8.Extensions.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\LD28Project\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\Assembly-UnityScript.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\UnityEditor.BB10.Extensions.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\UnityEditor.Metro.Extensions.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\UnityEditor.WP8.Extensions.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Diogo Lacerda\Desktop\LD28Project\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Lacerda\Desktop\LD28Project\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Diogo Lacerda\Desktop\LD28Project\obj\Debug\Assembly-CSharp-Editor.pdb
